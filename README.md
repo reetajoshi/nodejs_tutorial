@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center">Nodejs Tuto
+<p align="center">Nodejs Tutorial
   <br> 
 </p>
 
@@ -53,8 +53,6 @@ cd nodejs_tutorial
 yarn install
 node file_name //example-node app.js
 ```
-
-This will create a docker image
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
